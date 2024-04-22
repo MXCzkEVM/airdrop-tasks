@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1001,
+    "name": "Bridge 2500 MXC from Erc-20 to Zkevm",
+    "testnet": false,
+    "zks": 1000
+  }
+]
