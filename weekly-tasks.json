@@ -1,6 +1,6 @@
 [
   {
-    "id": 1001,
+    "task": "weekly-01",
     "name": "Bridge 2500 MXC from Erc-20 to Zkevm",
     "testnet": false,
     "zks": 1000
