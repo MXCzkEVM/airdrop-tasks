@@ -2,13 +2,6 @@
   {
     "task": "week-01",
     "name": "Bridge 2500 MXC from Erc-20 to Zkevm",
-    "testnet": false,
-    "zks": 1000
-  },
-  {
-    "task": "week-01",
-    "name": "Bridge 2500 MXC from Erc-20 to Zkevm in Geneva",
-    "testnet": true,
     "zks": 1000
   }
 ]
